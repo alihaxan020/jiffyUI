@@ -1,0 +1,4 @@
+const USER_LOGIN = 'USER_LOGIN';
+const USER_DATA = 'USER_DATA';
+const LOADING = 'LOADING';
+export {USER_DATA, USER_LOGIN, LOADING};
